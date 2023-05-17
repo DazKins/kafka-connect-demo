@@ -20,6 +20,8 @@ This demo relies on having the following things setup/installed:
 - Maven
 - Java
 
+## Running the Demo
+
 ### Set up a local Kafka
 
 1. Run `./start-zookeeper.sh` and `./start-kafka.sh` in separate terminals to start a local Kafka instance
