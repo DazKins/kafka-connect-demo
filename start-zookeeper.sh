@@ -1,0 +1,1 @@
+$KAFKA_BIN/zookeeper-server-start.sh ./zookeeper.properties

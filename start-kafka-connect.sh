@@ -1,0 +1,1 @@
+$KAFKA_BIN/connect-distributed.sh ./connect-distributed.properties

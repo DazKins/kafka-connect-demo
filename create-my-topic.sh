@@ -1,0 +1,1 @@
+$KAFKA_BIN/kafka-topics.sh --bootstrap-server localhost:9092 --create --topic my-topic
